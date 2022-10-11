@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T12:55:11.905Z" agent="5.0 (X11)" etag="OVCFX72jYCu1HSCT7sPH" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T12:59:26.769Z" agent="5.0 (X11)" etag="tjrd3LAL6P56NEO1X8x_" version="20.4.0" type="github">
   <diagram id="sdy6Zf20zEfnlvDLYYiU" name="Page-1">
     <mxGraphModel dx="2617" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,32 +294,32 @@
         <mxCell id="jlGuzBgM_5UnLUvUvrNm-26" value="&lt;div&gt;Заведует&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-500" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T4iOLJnZ17jGlODiEHJG-25" target="jlGuzBgM_5UnLUvUvrNm-26">
+        <mxCell id="jlGuzBgM_5UnLUvUvrNm-38" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4iOLJnZ17jGlODiEHJG-25" target="jlGuzBgM_5UnLUvUvrNm-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-440" y="180" as="sourcePoint" />
-            <mxPoint x="-410" y="280" as="targetPoint" />
+            <mxPoint x="-460" y="250" as="sourcePoint" />
+            <mxPoint x="-300" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-440" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-31" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jlGuzBgM_5UnLUvUvrNm-30">
+        <mxCell id="jlGuzBgM_5UnLUvUvrNm-39" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jlGuzBgM_5UnLUvUvrNm-38">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-2" y="-8" as="offset" />
+            <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-34" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlGuzBgM_5UnLUvUvrNm-13" target="jlGuzBgM_5UnLUvUvrNm-26">
+        <mxCell id="jlGuzBgM_5UnLUvUvrNm-40" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jlGuzBgM_5UnLUvUvrNm-13" target="jlGuzBgM_5UnLUvUvrNm-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="100" as="sourcePoint" />
-            <mxPoint x="-400" y="780" as="targetPoint" />
+            <mxPoint x="-590" y="790" as="sourcePoint" />
+            <mxPoint x="-430" y="780" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-440" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-35" value="&lt;div&gt;M&lt;/div&gt;" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jlGuzBgM_5UnLUvUvrNm-34">
+        <mxCell id="jlGuzBgM_5UnLUvUvrNm-41" value="&lt;div&gt;M&lt;/div&gt;" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jlGuzBgM_5UnLUvUvrNm-40">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-6" y="22" as="offset" />
+            <mxPoint x="-7" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
