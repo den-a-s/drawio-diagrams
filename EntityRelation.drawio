@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T11:30:46.393Z" agent="5.0 (X11)" etag="698UferU5jubfUQP1dp4" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T12:00:15.281Z" agent="5.0 (X11)" etag="5y1owfj41YZxM9ySvV1S" version="20.4.0" type="github">
   <diagram id="sdy6Zf20zEfnlvDLYYiU" name="Page-1">
     <mxGraphModel dx="3122" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -243,15 +243,6 @@
         </mxCell>
         <mxCell id="T4iOLJnZ17jGlODiEHJG-25" value="Врачи" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;arcSize=50;" parent="jlGuzBgM_5UnLUvUvrNm-15" vertex="1">
           <mxGeometry x="77.45950819672134" y="80" width="165.24590163934425" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-22" value="Вопросы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1600" y="760" width="160" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-23" value="Кол-во палат, кол-во коек&#xa;может не нужно, так как&#xa;можно вычислить&#xa;запросом?&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="jlGuzBgM_5UnLUvUvrNm-22" vertex="1">
-          <mxGeometry y="26" width="160" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="jlGuzBgM_5UnLUvUvrNm-25" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="jlGuzBgM_5UnLUvUvrNm-22" vertex="1">
-          <mxGeometry y="170" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jlGuzBgM_5UnLUvUvrNm-47" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4iOLJnZ17jGlODiEHJG-74" target="jlGuzBgM_5UnLUvUvrNm-44" edge="1">
           <mxGeometry relative="1" as="geometry">
